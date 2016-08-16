@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color:  yellow;
+    color:  pink;
 }
 
 h2{
@@ -54,7 +54,7 @@ img{
 }
 
 .button {
-    background: green;
+    background: purple;
     font-size: 110%;
     color:gray;
     padding: 4px;
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: rgb(215, 206, 199);
+    background-color:orange;
     color:  rgb(215, 206, 199);
 }
 
